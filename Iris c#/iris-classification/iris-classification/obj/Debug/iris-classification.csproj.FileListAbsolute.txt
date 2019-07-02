@@ -1,0 +1,119 @@
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+\\ncl-staffhome-c\staffhome\chris.jones\my documents\visual studio 2015\Projects\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+C:\Users\chris.jones\Desktop\GitHub\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\irisdata.csv
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csprojResolveAssemblyReference.cache
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+\\ncl-staffhome-c\staffhome\Chris.Jones\My Documents\Visual Studio 2015\Projects\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csprojResolveAssemblyReference.cache
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\irisdata.csv
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csprojResolveAssemblyReference.cache
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+X:\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\irisdata.csv
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+\\Mac\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\irisdatanormalised.csv
+C:\Users\chris.jones\Dropbox\Code\Iris-BP-RL\iris-classification\iris-classification\bin\Debug\irisdatanormalised.csv
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\bin\Debug\irisdatanormalised.csv
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\obj\Debug\iris-classification.csprojResolveAssemblyReference.cache
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+C:\Users\chris.jones\Dropbox\Code\Iris 3 outputs\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdatanormalised.csv
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.Cache
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csprojAssemblyReference.cache
+C:\Users\chris.jones\Dropbox\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.CoreCompileInputs.cache
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdatanormalised.csv
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csprojAssemblyReference.cache
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.cache
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.CoreCompileInputs.cache
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdatanormalised.csv
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csprojAssemblyReference.cache
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.cache
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.CoreCompileInputs.cache
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\Phd Final Hurdle July 2018\Code\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdata.csv
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\irisdatanormalised.csv
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe.config
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\bin\Debug\iris-classification.pdb
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csprojAssemblyReference.cache
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Form1.resources
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris_classification.Properties.Resources.resources
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.GenerateResource.cache
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.csproj.CoreCompileInputs.cache
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.exe
+C:\Users\chris.jones\Dropbox\gitstore\Iris With Variable Success Selection\iris-classification\iris-classification\obj\Debug\iris-classification.pdb

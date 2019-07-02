@@ -1,0 +1,6 @@
+#!\bin\bash
+for dest in Testing10.csv	Testing20.csv	Testing30.csv	Testing40.csv	Testing50.csv	Testing60.csv	Testing70.csv	Testing80.csv	Testing90.csv	Testing100.csv	Testing110.csv	Testing120.csv	Testing130.csv	Testing140.csv	Testing150.csv	Testing160.csv	Testing170.csv	Testing180.csv	Testing190.csv	Testing200.csv
+
+do
+  tail -n 1 "$dest" >> total.csv
+done

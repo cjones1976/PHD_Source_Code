@@ -1,0 +1,28 @@
+python3 RL_image.py
+sleep 10
+mv Testing.csv Testing150.csv
+mv Training.csv Training150.csv
+python3 RL_image.py
+sleep 10
+mv Testing.csv Testing160.csv
+mv Training.csv Training160.csv
+sleep 10
+python3 RL_image.py
+sleep 10
+mv Testing.csv Testing170.csv
+mv Training.csv Training170.csv
+python3 RL_image.py
+sleep 10
+mv Testing.csv Testing180.csv
+mv Training.csv Training180.csv
+python3 RL_image.py
+sleep 10
+mv Testing.csv Testing190.csv
+mv Training.csv Training190.csv
+sleep 10
+python3 RL_image.py
+sleep 10
+mv Testing.csv Testing200.csv
+mv Training.csv Training200.csv
+
+

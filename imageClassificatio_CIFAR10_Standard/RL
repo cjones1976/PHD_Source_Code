@@ -1,0 +1,24 @@
+python3 RL_image.py
+mv testing.csv testing90.csv
+python3 RL_image.py
+mv testing.csv testing100.csv
+python3 RL_image.py
+mv testing.csv testing110.csv
+python3 RL_image.py
+mv testing.csv testing120.csv
+python3 RL_image.py
+mv testing.csv testing130.csv
+python3 RL_image.py
+mv testing.csv testing140.csv
+python3 RL_image.py
+mv testing.csv testing150.csv
+python3 RL_image.py
+mv testing.csv testing160.csv
+python3 RL_image.py
+mv testing.csv testing170.csv
+python3 RL_image.py
+mv testing.csv testing180.csv
+python3 RL_image.py
+mv testing.csv testing190.csv
+python3 RL_image.py
+mv testing.csv testing200.csv

@@ -1,0 +1,6 @@
+python3 RL_image.py
+sleep 10
+mv Testing.csv Testing210.csv
+mv Training.csv Training210.csv
+
+
